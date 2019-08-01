@@ -1,0 +1,15 @@
+*.json
+*.md
+*.css
+*.scss
+*.html
+*.hbs
+*.yml
+*.yaml
+*.sh
+*.svg
+*.xml
+*.txt
+*.png
+/bower_components
+/vendor
